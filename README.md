@@ -9,9 +9,9 @@
 
 Optional variables are available for this theme :
 
-*  `ADDRESS` : Your postal address. Accepts HTML.
-*  `MAIL` : Your email address.
-*  `PHONE` : Your phone number.
+*  `ADDRESS` :Write your postal address. Accepts HTML.
+*  `MAIL` : Write your email address.
+*  `PHONE` : Write your phone number.
 *  `TWITTER_USER` : 'Pierre_Paul', should be the url following http://twitter.com/
 *  `GOOGLEPLUS_USER` : '110831175850960549188', should be the url following http://plus.google.com/ when viewing your profile.
 *  `LINKEDIN_USER` : 'pierre-paul-lefebvre/2/9b7/aa' #Again, should be the URL following http://linkedin.com/ when viewing your profile.
